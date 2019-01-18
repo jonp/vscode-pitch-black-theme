@@ -17,7 +17,7 @@
     "tab.unfocusedActiveForeground": "#fff",
     "tab.inactiveForeground": "#ccc",
     "tab.unfocusedInactiveForeground": "#ccc",
-    "tab.activeBackground": "#000",
+    "tab.activeBackground": "#222",
     "tab.unfocusedActiveBorder": "#000",
     "tab.inactiveBackground": "#000",
     "tab.activeBorder": "#000",
@@ -49,7 +49,7 @@
     "editor.background": "#000",
     "statusBar.background": "#000",
     "editorGroup.emptyBackground": "#000",
-    "editorGroup.dropBackground": "#000",
+    "editorGroup.dropBackground": "#222",
     "editorGroupHeader.noTabsBackground": "#000",
     "editorGroupHeader.tabsBackground": "#000",
     "activityBarBadge.background": "#000",
@@ -63,23 +63,6 @@
     "editorGroup.border": "#000",
   },
   "tokenColors": [
-    {
-      "scope": [
-        "punctuation.definition.variable",
-        "support.variable.drive"
-      ],
-      "settings": {
-        "foreground": "#569cd6"
-      }
-    },
-    {
-      "scope": [
-        "variable.other.member"
-      ],
-      "settings": {
-        "foreground": "#DCDCAA"
-      }
-    },
     {
       "scope": [
         "meta.embedded",
